@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/SergioCasCeb/qr-code-component)
+- Solution URL: [Frontend Mentor]( https://www.frontendmentor.io/solutions/responsive-qr-component-using-scss-p6Fx_gUjsY)
 - Live Site URL: [Netlify](https://fm-qr-challenge-sergio.netlify.app/)
 
 ## My process
