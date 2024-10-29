@@ -141,8 +141,6 @@ footer a {
   max-width: 20rem;
 }
 .component__qr {
-  width: 18rem;
-  aspect-ratio: 1/1;
   border-radius: 10px;
   margin-bottom: var(--sp-m);
 }
