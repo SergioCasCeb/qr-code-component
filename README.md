@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 1. Analyze the design guidelines
 2. Implement my CSS reset code
 3. Add all the root/global values as well as any utility class I might need
-4. create the structure in the html files (utilizing the BEM methodology)
-5. add the section/component specific styling
+4. Create the structure in the html files (utilizing the BEM methodology)
+5. Add the section/component specific styling
 
 ### Built with
 
